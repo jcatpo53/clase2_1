@@ -46,5 +46,6 @@ mat4[3,]
 #elementos especiales
 -1:1/0
 x<-NA
+#
 
 
